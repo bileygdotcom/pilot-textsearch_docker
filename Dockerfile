@@ -1,6 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM bileyg/hangar:latest
-
+FROM bileyg/hangar:0.9
 LABEL project="Pilot-TextSearch-Server"\
       version="1.1" \
       mantainer="bileyg"\
